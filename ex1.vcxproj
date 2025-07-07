@@ -131,7 +131,6 @@
     <ClInclude Include="GC.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Block.h" />
     <ClCompile Include="GC.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
